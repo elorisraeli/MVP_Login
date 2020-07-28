@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVP_Login</string>
+    <string name="login">Login</string>
+    <string name="welcom_please_login">Welcom! Please login</string>
+</resources>
